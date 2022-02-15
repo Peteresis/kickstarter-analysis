@@ -70,9 +70,9 @@ Analyzing Kickstarter campaign data has several aspects that may be of difficult
 
 - What are some limitations of this dataset?
 
-  I believe that the main limitation is the fact that there are categories with very few "plays" but with a high sucess rate and that skews the data when you only look at the outcome based on financial goals.  If you look at the chart alone, you cold be deceived into thinking that it is a good idea to launch a campaign between $35,000 and $45,000, when in reality there are very few campaigns in this range.
+  I believe that the main limitation is the fact that there are categories with very few "plays" but with a high sucess rate and that skews the data when you only look at the outcome based on financial goals.  If you look at the chart alone, you could be deceived into thinking that it is a good idea to launch a campaign between $35,000 and $45,000, when in reality there are very few campaigns in this range.
 
-  Another limitation is that the parent category "Theater" only has 3 subcategories: musicals, plays and theathers.  Perhaps it would be more useful if it had more subcategories so that it could give more information about the type of "plays" that have more probability of success.  Also, the subcategory "spaces" needs to be discarded as it refers to the construction of repairs of theater halls and so it can skew the data if such subcategory is not discarded.
+  Another limitation is that the parent category "Theater" only has 3 subcategories: musicals, plays and theathers.  Perhaps it would be more useful if it had more subcategories so that it could give more information about the type of "plays" that have more probability of success.  Also, the subcategory "spaces" needs to be discarded for our analysis as it refers to the construction or repairs of theater halls and so it can skew the data if such subcategory is not ignored.
 
 - What are some other possible tables and/or graphs that we could create?
 
@@ -80,4 +80,4 @@ Analyzing Kickstarter campaign data has several aspects that may be of difficult
 
   Another useful graphic would be to compare success rates across countries to see if there is a hotspot for theather plays.
 
-  It would also be interesting to compare the categories "Theather" with "Film & Video" Perhaps the public invests far more money in one category than the other, and both involve acting, one in front of the public and the other in front of a camera.
+  It would also be interesting to compare the categories "Theather" with "Film & Video". Perhaps the public invests far more money in one category than the other, and both involve acting, one in front of the public and the other in front of a camera.
