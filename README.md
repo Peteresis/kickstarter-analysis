@@ -22,6 +22,8 @@ Excel proved to be a very powerful tool to work with the data.  The software has
 
 ### Analysis of Outcomes Based on Launch Date
 
+![Outcomes Based Launch Date Chart](https://github.com/Peteresis/kickstarter-analysis/blob/6b23f9c99e0bd3cdeb73c24dcb6ccd7c8d73c849/Outcomes_vs_Goals.png)
+
 The table contained in the Tab "Theather Outcomes by Launch Date" was elaborated using the data extracted from Kickstarter.  It is a specific table for the Theather category.  From this table the graph of Successful, Failed and Canceled campaigns was generated.  This graph shows that, in general, there are more Successful campaigns than Failed or Canceled campaigns and that from April to September is the best time of the year to launch a successful campaign.  
 
 On average:
@@ -35,7 +37,9 @@ With respect to cancelled campaigns, the number is negligible and the curve is f
 
 ### Analysis of Outcomes Based on Goals
 
-The table included in the Tab "Outcomes Based on Goals" was elaborated using the data obtained from Kicstarter.  This table shows the number of Successful, Failed and Canceled campaigns for the subcategory "Plays".  The table is divided into 12 ranges with the amount of money to be raised from the public (goals).  The first rank is for goals under $1,000 and the following categories increase in steps of $5,000 until reaching the top category, which includes projects over $50,000.
+The table included in the Tab "Outcomes Based on Goals" was elaborated using the data obtained from Kickstarter.  This table shows the number of Successful, Failed and Canceled campaigns for the subcategory "Plays".  The table is divided into 12 ranges with the amount of money to be raised from the public (goals).  The first rank is for goals under $1,000 and the following categories increase in steps of $5,000 until reaching the top category, which includes projects over $50,000.
+
+![Outcomes Based On Goals Chart](https://github.com/Peteresis/kickstarter-analysis/blob/6b23f9c99e0bd3cdeb73c24dcb6ccd7c8d73c849/Outcomes_vs_Goals.png)
 
 The graph shows that "plays" projects under $5,000 are the most successful (between 73% and 76% success) and then the curve begins to decline until it reaches 20% of successful projects, although there is an increase in the range between $35,000 and $45,000 where the success rate rises sharply to 67% and then falls back to 0%. Does this mean that it is better to launch only campaigns between $35,000 and $45,000?  The answer is, no.  Although the success rate in the indicated range is quite high, the number of campaigns is very small, just 6 campaigns in this range out of a total of 694 successful campaigns.
 
