@@ -22,7 +22,7 @@ Excel proved to be a very powerful tool to work with the data.  The software has
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Outcomes Based Launch Date Chart](https://github.com/Peteresis/kickstarter-analysis/blob/6b23f9c99e0bd3cdeb73c24dcb6ccd7c8d73c849/Outcomes_vs_Goals.png)
+![Outcomes Based Launch Date Chart](https://github.com/Peteresis/kickstarter-analysis/blob/07823365281d777da667a078f6dad1e68ba04923/Theater_Outcomes_vs_Launch.png)
 
 The table contained in the Tab "Theather Outcomes by Launch Date" was elaborated using the data extracted from Kickstarter.  It is a specific table for the Theather category.  From this table the graph of Successful, Failed and Canceled campaigns was generated.  This graph shows that, in general, there are more Successful campaigns than Failed or Canceled campaigns and that from April to September is the best time of the year to launch a successful campaign.  
 
